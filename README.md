@@ -41,6 +41,7 @@ Hi! I'm Amandeep, a passionate Java Developer with 3 years of experience in buil
    - **Tech Stack**: Java, Spring Boot, AWS, MySQL
 ## 🎯 What I'm Learning
 
+- Using AI tools to improve software development workflows, including spec-driven development, intelligent code generation, automated testing, and performance optimization.
 - Kafka for event streaming and real-time data pipelines.
 - Enhancing my knowledge of distributed systems and microservices architecture.
 - Exploring advanced system design patterns.
